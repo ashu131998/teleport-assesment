@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+#### git clone https://github.com/ashu131998/teleport-assesment.git
 #### npm i
 #### npm start
 
